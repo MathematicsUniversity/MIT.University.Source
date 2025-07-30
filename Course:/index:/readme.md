@@ -7,3 +7,9 @@
 - https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
 - https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/
 - https://www.youtube.com/playlist?list=PLl8XY7QVSa4aUyZAtL2Hlf_mx3LaSix9B
+- https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/
+- https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
+- https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
+- https://www.youtube.com/playlist?list=PLB7540DEDD482705B
+- https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
+- https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
