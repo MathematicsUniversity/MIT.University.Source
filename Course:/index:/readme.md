@@ -1,3 +1,9 @@
 # Index:
 - https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
 - https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1
+- https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/
+- https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38
+- https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
+- https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+- https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/
+- https://www.youtube.com/playlist?list=PLl8XY7QVSa4aUyZAtL2Hlf_mx3LaSix9B
